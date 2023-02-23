@@ -1,0 +1,381 @@
+[
+    {
+        "display": "Nosy Nose",
+        "name": "Nosy Nose",
+        "type": "familiar",
+        "value": "good",
+        "use": "Familiar with olfaction-lite ability"
+    },
+    {
+        "display": "Gelatinous Cubeling",
+        "name": "Gelatinous Cubeling",
+        "type": "familiar",
+        "value": "good",
+        "use": "Speeds up the daily dungeon"
+    },
+    {
+        "display": "Oily Woim",
+        "name": "Oily Woim",
+        "type": "familiar",
+        "value": "okay",
+        "use": "Provides init"
+    },
+	
+	{
+        "display": "Exotic Parrot",
+        "name": "exotic parrot",
+        "type": "familiar",
+        "value": "okay",
+        "use": "Provides elemental resistance"
+    },
+    {
+        "display": "Hobo Monkey",
+        "name": "Hobo Monkey",
+        "type": "familiar",
+        "value": "okay",
+        "use": "Leprechaun with 1.25x efficiency"
+    },
+    {
+        "display": "Locket Monster: Fantasy Bandit",
+        "name": "fantasy bandit",
+        "prereq": {
+            "name": "Combat Lover's Locket",
+            "type": "item"
+        },
+        "type": "locketMonster",
+        "value": "good",
+        "use": "Fighting 5x in a day will get you a fat loot token"
+    },
+    {
+        "display": "Locket Monster: Screambat",
+        "name": "screambat",
+        "prereq": {
+            "name": "Combat Lover's Locket",
+            "type": "item"
+        },
+        "type": "locketMonster",
+        "value": "good",
+        "use": "Lets you break a wall in the Bat Hole"
+    },
+    {
+        "display": "Locket Monster: Ninja Snowman Assassin",
+        "name": "ninja snowman assassin",
+        "prereq": {
+            "name": "Combat Lover's Locket",
+            "type": "item"
+        },
+        "type": "locketMonster",
+        "value": "good",
+        "use": "Fighting 3x is optimal for L8 quest"
+    },
+    {
+        "display": "Locket Monster: Lobsterfrogman",
+        "name": "lobsterfrogman",
+        "prereq": {
+            "name": "Combat Lover's Locket",
+            "type": "item"
+        },
+        "type": "locketMonster",
+        "value": "good",
+        "use": "Need 5x for war sidequest"
+    },
+    {
+        "display": "Locket Monster: Astronomer",
+        "name": "Astronomer",
+        "prereq": {
+            "name": "Combat Lover's Locket",
+            "type": "item"
+        },
+        "type": "locketMonster",
+        "value": "good",
+        "use": "Helpful for star key"
+    },
+    {
+        "display": "Locket Monster: War Frat Mobile Grill Unit",
+        "name": "War Frat Mobile Grill Unit",
+        "prereq": {
+            "name": "Combat Lover's Locket",
+            "type": "item"
+        },
+        "type": "locketMonster",
+        "value": "good",
+        "use": "Frat warrior war start outfit"
+    },
+    {
+        "display": "Locket Monster: War Hippy Airborne Commander",
+        "name": "War Hippy Airborne Commander",
+        "prereq": {
+            "name": "Combat Lover's Locket",
+            "type": "item"
+        },
+        "type": "locketMonster",
+        "value": "good",
+        "use": "War hippy war start outfit"
+    },
+    {
+        "display": "Locket Monster: Baa'baa'bu'ran",
+        "name": "Baa'baa'bu'ran",
+        "prereq": {
+            "name": "Combat Lover's Locket",
+            "type": "item"
+        },
+        "type": "locketMonster",
+        "value": "good",
+        "use": "3x Stone Wool for L12 quest"
+    },
+	{
+        "display": "Potential Pull: Etched Hourglass",
+        "name": "Etched Hourglass",
+        "type": "item",
+        "value": "okay",
+        "use": "Extra RO adventures"
+    },
+	{
+        "display": "Potential Pull: Potato Alarm Clock",
+        "name": "Potato Alarm Clock",
+        "type": "item",
+        "value": "okay",
+        "use": "Extra RO adventures"
+    },
+	{
+        "display": "Potential Pull: Mafia Thumb Ring",
+        "name": "Mafia Thumb Ring",
+        "type": "item",
+        "value": "good",
+        "use": "Accessory which generates an adv 4% of combats"
+    },
+	{
+        "display": "Potential Pull: Numberwang",
+        "name": "Numberwang",
+        "type": "item",
+        "value": "good",
+        "use": "Good all around accessory"
+    },
+	{
+        "display": "Potential Pull: Deck of Lewd Playing Cards",
+        "name": "Deck of Lewd Playing Cards",
+        "type": "item",
+        "value": "good",
+        "use": "Sleaze dmg helps Belch House, Zeppelin Mob, and sometimes tower test"
+    },
+	{
+        "display": "Potential Pull: Infinite BACON Machine",
+        "name": "Infinite BACON Machine",
+        "type": "item",
+        "value": "marginal",
+        "use": "Might make milk for big stats. Poor, for modern standards, yellow ray source"
+    },
+	{
+        "display": "Potential Pull: Mime Army Shotglass",
+        "name": "Mime Army Shotglass",
+        "type": "item",
+        "value": "ok",
+        "use": "Only pulled for Dark Gyffte as ever organ space is really good"
+    },
+	{
+        "display": "Transcendent Olfaction",
+        "name": "Transcendent Olfaction",
+        "type": "skill",
+        "value": "good",
+        "use": "Significantly increases chance of encountering a monster"
+    },
+	{
+        "display": "Saucestorm",
+        "name": "saucestorm",
+        "type": "skill",
+        "value": "required",
+        "use": "Critical for autoscend combat"
+    },
+	{
+        "display": "Itchy Curse Finger",
+        "name": "Itchy Curse Finger",
+        "type": "skill",
+        "value": "required",
+        "use": "Critical for autoscend combat"
+    },
+	{
+        "display": "Curse of Weaksauce",
+        "name": "Curse of Weaksauce",
+        "type": "skill",
+        "value": "required",
+        "use": "Critical for autoscend combat"
+    },
+	{
+        "display": "Tongue of the Walrus",
+        "name": "Tongue of the Walrus",
+        "type": "skill",
+        "value": "required",
+        "use": "Healing skill which cures beaten up"
+    },
+	{
+        "display": "Cannelloni Cocoon",
+        "name": "Cannelloni Cocoon",
+        "type": "skill",
+        "value": "required",
+        "use": "Heals up to 1000 HP for 20 MP. Very cost effective"
+    },
+	{
+        "display": "Stuffed Mortar Shell",
+        "name": "Stuffed Mortar Shell",
+        "type": "skill",
+        "value": "good",
+        "use": "MP efficient and high damage"
+    },
+	{
+        "display": "Saucegeyser",
+        "name": "Saucegeyser",
+        "type": "skill",
+        "value": "good",
+        "use": "High damage spell. Helpful for bosses"
+    },
+	{
+        "display": "Recipe: Boris's beer",
+        "name": "Boris's beer",
+		"prereq": {
+            "name": "Cookbookbat",
+            "type": "familiar"
+        },
+        "type": "cbbRecipe",
+        "value": "good",
+        "use": "Cookbookbat recipes need to be learned, even you have the familiar"
+    },
+	{
+        "display": "Recipe: Boris's beer",
+        "name": "Boris's beer",
+		"prereq": {
+            "name": "Cookbookbat",
+            "type": "familiar"
+        },
+        "type": "cbbRecipe",
+        "value": "marginal",
+        "use": "Cookbookbat recipes need to be learned, even you have the familiar"
+    },
+	{
+        "display": "Recipe: honey bun of Boris",
+        "name": "honey bun of Boris",
+		"prereq": {
+            "name": "Cookbookbat",
+            "type": "familiar"
+        },
+        "type": "cbbRecipe",
+        "value": "marginal",
+        "use": "Cookbookbat recipes need to be learned, even you have the familiar"
+    },
+	{
+        "display": "Recipe: ratatouille de Jarlsberg",
+        "name": "ratatouille de Jarlsberg",
+		"prereq": {
+            "name": "Cookbookbat",
+            "type": "familiar"
+        },
+        "type": "cbbRecipe",
+        "value": "marginal",
+        "use": "Cookbookbat recipes need to be learned, even you have the familiar"
+    },
+	{
+        "display": "Recipe: Jarlsberg's vegetable soup",
+        "name": "Jarlsberg's vegetable soup",
+		"prereq": {
+            "name": "Cookbookbat",
+            "type": "familiar"
+        },
+        "type": "cbbRecipe",
+        "value": "marginal",
+        "use": "Cookbookbat recipes need to be learned, even you have the familiar"
+    },
+	{
+        "display": "Recipe: Pete's wiley whey bar",
+        "name": "Pete's wiley whey bar",
+		"prereq": {
+            "name": "Cookbookbat",
+            "type": "familiar"
+        },
+        "type": "cbbRecipe",
+        "value": "marginal",
+        "use": "Cookbookbat recipes need to be learned, even you have the familiar"
+    },
+	{
+        "display": "Recipe: St. Pete's sneaky smoothie",
+        "name": "St. Pete's sneaky smoothie",
+		"prereq": {
+            "name": "Cookbookbat",
+            "type": "familiar"
+        },
+        "type": "cbbRecipe",
+        "value": "marginal",
+        "use": "Cookbookbat recipes need to be learned, even you have the familiar"
+    },
+	{
+        "display": "Recipe: Boris's bread",
+        "name": "Boris's bread",
+		"prereq": {
+            "name": "Cookbookbat",
+            "type": "familiar"
+        },
+        "type": "cbbRecipe",
+        "value": "good",
+        "use": "Cookbookbat recipes need to be learned, even you have the familiar"
+    },
+	{
+        "display": "Recipe: roasted vegetable of Jarlsberg",
+        "name": "roasted vegetable of Jarlsberg",
+		"prereq": {
+            "name": "Cookbookbat",
+            "type": "familiar"
+        },
+        "type": "cbbRecipe",
+        "value": "good",
+        "use": "Cookbookbat recipes need to be learned, even you have the familiar"
+    },
+	{
+        "display": "Recipe: Pete's rich ricotta",
+        "name": "Pete's rich ricotta",
+		"prereq": {
+            "name": "Cookbookbat",
+            "type": "familiar"
+        },
+        "type": "cbbRecipe",
+        "value": "good",
+        "use": "Cookbookbat recipes need to be learned, even you have the familiar"
+    },
+	{
+        "display": "Recipe: roasted vegetable focaccia",
+        "name": "roasted vegetable focaccia",
+		"prereq": {
+            "name": "Cookbookbat",
+            "type": "familiar"
+        },
+        "type": "cbbRecipe",
+        "value": "good",
+        "use": "Cookbookbat recipes need to be learned, even you have the familiar"
+    },
+	{
+        "display": "Recipe: plain calzone",
+        "name": "plain calzone",
+		"prereq": {
+            "name": "Cookbookbat",
+            "type": "familiar"
+        },
+        "type": "cbbRecipe",
+        "value": "good",
+        "use": "Cookbookbat recipes need to be learned, even you have the familiar"
+    },
+	{
+        "display": "Recipe: baked veggie ricotta casserole",
+        "name": "baked veggie ricotta casserole",
+		"prereq": {
+            "name": "Cookbookbat",
+            "type": "familiar"
+        },
+        "type": "cbbRecipe",
+        "value": "good",
+        "use": "Cookbookbat recipes need to be learned, even you have the familiar"
+    },
+	{
+        "display": "Pool Shark",
+        "name": "poolSharkCount",
+        "type": "poolProperty",
+        "value": "good",
+        "use": "Lucky! adv which permanently increases your pool skill. It is possible for Mafia to not realize you have maxed this. If you are confident you have, enter the following in the CLI: `set poolSharkCount=25`"
+    }
+]
