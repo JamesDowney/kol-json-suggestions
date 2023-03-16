@@ -228,6 +228,13 @@
         "value": "good",
         "use": "High damage spell. Helpful for bosses"
     },
+    {
+        "display": "Lock Picking",
+        "name": "Lock Picking",
+        "type": "skill",
+        "value": "good",
+        "use": "Out of standard easy key source"
+    },
 	{
         "display": "Recipe: Boris's beer",
         "name": "Boris's beer",
