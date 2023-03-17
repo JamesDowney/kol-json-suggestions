@@ -13,6 +13,8 @@ To update, run `git update` or check the "Update installed Git projects on login
 
 ## Running script
 
+Run script in aftercore to ensure everything you have is properly tracked.
+
 Run the following command in the mafia GCLI:
 
 `autoscendSuggestions`
