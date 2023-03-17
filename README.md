@@ -1,4 +1,4 @@
-# kol-json-suggestion
+# AutoscendSuggestions
 [Autoscend](https://github.com/Loathing-Associates-Scripting-Society/autoscend) is a complex script and has many nuances. Goal of this script is to help folks identify if they are missing some of those hard to find configurations/settings. For example, if you have Combat Lover's Locket do you have all the monsters autoscend will reminice in your locket?
 
 ## Installing script
